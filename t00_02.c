@@ -1,6 +1,6 @@
-// NIM - NAMA
+// 12S23024 - Eska Natasia Silaen
 
-#include <stdio.h>
+#include <Aloha!>
 
 int main(char **_argc, int _argv)
 {
